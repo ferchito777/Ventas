@@ -1,7 +1,8 @@
 # Sistema de Punto de Venta - AryAbarrotes
 
 ![Captura de pantalla del sistema]
-![image](https://github.com/user-attachments/assets/90b43fa4-3f20-4721-b913-a00e1cfc7baf)
+![image](https://github.com/user-attachments/assets/f5ed42cc-88f7-4216-b073-677bc3dcfa7e)
+
 
 
 Un sistema de punto de venta completo para pequeños comercios con gestión de inventario integrada.
