@@ -1,7 +1,6 @@
 # Sistema de Punto de Venta - AryAbarrotes
 
-![Captura de pantalla del sistema]
-![image](https://github.com/user-attachments/assets/f5ed42cc-88f7-4216-b073-677bc3dcfa7e)
+![image](https://github.com/user-attachments/assets/83576b6a-c51c-4f68-bd17-df642028862b)
 
 
 
